@@ -1,3 +1,3 @@
 # gitskills
 creating a new branch is quick and simple 
-merge
+merge to stash on dev
